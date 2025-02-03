@@ -1,0 +1,5 @@
+The progam's parent process would be the shell process.
+
+After that would be the getty process
+
+The parent process after that would be the init process
